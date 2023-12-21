@@ -1,2 +1,2 @@
-# Coffe-Odering-App
+# Coffee-Odering-App
 Coffe Odering App OnTheGo
